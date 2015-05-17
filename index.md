@@ -35,10 +35,11 @@ The answer is yes. Even a little bit of code is a nuisance compared to having it
 
 On this page, input your comma-separated values, press Submit, and the application will display the following:
 
--Values
+Values
   - Slope
   - Intercept
--Graphs
+  
+Graphs
   - Actual versus fitted values
   - Residuals versus fitted
   - Scale-location
